@@ -11,6 +11,9 @@
   "repository": "https://github.com/lloydhumphreys/cartographer-claude",
   "license": "MIT",
   "privacyPolicyUrl": "https://cartographer.studio/legal/privacy",
+  "termsOfServiceUrl": "https://cartographer.studio/legal/terms",
+  "supportUrl": "https://cartographer.studio/support",
+  "documentationUrl": "https://cartographer.studio/product/claude-cowork-plugins",
   "icon": "./.claude-plugin/icon.png",
   "keywords": [
     "story-mapping",
