@@ -1,0 +1,32 @@
+{
+  "name": "cartographer",
+  "displayName": "Cartographer",
+  "version": "0.3.0",
+  "description": "Story mapping and user journey visualization with Cartographer. Build collaborative story maps, map user journeys, run product discovery sessions, and organize work with a visual board powered by the user story mapping methodology.",
+  "author": {
+    "name": "Cartographer ApS",
+    "url": "https://cartographer.studio"
+  },
+  "homepage": "https://cartographer.studio",
+  "repository": "https://github.com/lloydhumphreys/cartographer-claude",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://cartographer.studio/legal/privacy",
+  "icon": "./.claude-plugin/icon.png",
+  "keywords": [
+    "story-mapping",
+    "product",
+    "journeys",
+    "user-research",
+    "product-discovery",
+    "product-management",
+    "project-management",
+    "project-planning",
+    "project-tracking",
+    "project-documentation",
+    "project-communication",
+    "project-collaboration",
+    "mvp",
+    "user-interviews",
+    "sales-enablement"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "cartographer",
+  "owner": {
+    "name": "Cartographer ApS",
+    "url": "https://cartographer.studio"
+  },
+  "metadata": {
+    "description": "Cartographer's story mapping plugin for Claude."
+  },
+  "plugins": [
+    {
+      "name": "cartographer",
+      "source": "./",
+      "description": "Story mapping and user journey visualization with Cartographer. Build collaborative story maps, map user journeys, run product discovery sessions, and organize work with a visual board powered by the user story mapping methodology."
+    }
+  ]
+}
