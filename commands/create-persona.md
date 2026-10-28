@@ -2,14 +2,14 @@
 description: Create a rich, actionable persona through guided conversation
 allowed-tools:
   [
-    'mcp__cartographer__whoami',
-    'mcp__cartographer__spaces_list',
-    'mcp__cartographer__spaces_projects_list',
-    'mcp__cartographer__projects_list',
-    'mcp__cartographer__find_project_by_name',
-    'mcp__cartographer__personas_list',
-    'mcp__cartographer__personas_create',
-    'mcp__cartographer__personas_update',
+    'mcp__plugin_cartographer_cartographer__whoami',
+    'mcp__plugin_cartographer_cartographer__spaces_list',
+    'mcp__plugin_cartographer_cartographer__spaces_projects_list',
+    'mcp__plugin_cartographer_cartographer__projects_list',
+    'mcp__plugin_cartographer_cartographer__find_project_by_name',
+    'mcp__plugin_cartographer_cartographer__personas_list',
+    'mcp__plugin_cartographer_cartographer__personas_create',
+    'mcp__plugin_cartographer_cartographer__personas_update',
   ]
 argument-hint: '<persona name, role, or rough description>'
 ---

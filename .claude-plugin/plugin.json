@@ -1,7 +1,7 @@
 {
   "name": "cartographer",
   "displayName": "Cartographer",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Story mapping and user journey visualization with Cartographer. Build collaborative story maps, map user journeys, run product discovery sessions, and organize work with a visual board powered by the user story mapping methodology.",
   "author": {
     "name": "Cartographer ApS",

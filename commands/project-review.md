@@ -2,18 +2,18 @@
 description: Analyze a project's structure and suggest improvements
 allowed-tools:
   [
-    'mcp__cartographer__whoami',
-    'mcp__cartographer__spaces_list',
-    'mcp__cartographer__spaces_projects_list',
-    'mcp__cartographer__projects_list',
-    'mcp__cartographer__find_project_by_name',
-    'mcp__cartographer__spaces_statuses_list',
-    'mcp__cartographer__projects_list_backbone',
-    'mcp__cartographer__projects_list_all_cards',
-    'mcp__cartographer__projects_get_card_details',
-    'mcp__cartographer__milestones_list',
-    'mcp__cartographer__personas_list',
-    'mcp__cartographer__customers_list',
+    'mcp__plugin_cartographer_cartographer__whoami',
+    'mcp__plugin_cartographer_cartographer__spaces_list',
+    'mcp__plugin_cartographer_cartographer__spaces_projects_list',
+    'mcp__plugin_cartographer_cartographer__projects_list',
+    'mcp__plugin_cartographer_cartographer__find_project_by_name',
+    'mcp__plugin_cartographer_cartographer__spaces_statuses_list',
+    'mcp__plugin_cartographer_cartographer__projects_list_backbone',
+    'mcp__plugin_cartographer_cartographer__projects_list_all_cards',
+    'mcp__plugin_cartographer_cartographer__projects_get_card_details',
+    'mcp__plugin_cartographer_cartographer__milestones_list',
+    'mcp__plugin_cartographer_cartographer__personas_list',
+    'mcp__plugin_cartographer_cartographer__customers_list',
   ]
 argument-hint: '<project name>'
 ---
